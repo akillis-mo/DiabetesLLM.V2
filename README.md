@@ -23,7 +23,7 @@
 ---
 
 ## How to Run the Project
-
+0. Download the UI folder and open the index file on your browser (if this doesn't work try the following steps).
 1. Open the Python notebook on **Google Colab**.
 2. Run all the code (**Runtime > Run all**).
 3. Upload the **checkpoint zip file** when prompted.
